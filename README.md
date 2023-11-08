@@ -48,3 +48,8 @@
       primaryClass={cs.CL}
 }
 ```
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/whitzard-ai/jade-db.svg)](https://starchart.cc/whitzard-ai/jade-db)
+
