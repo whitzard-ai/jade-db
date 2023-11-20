@@ -1,4 +1,4 @@
-# JADE-Database
+![image](https://github.com/whitzard-ai/jade-db/assets/132799726/697234be-a62a-40bb-83f3-508badda6004)# JADE-Database
 中文技术报告：[JADE：基于语言学变异的大模型靶向式安全评测平台](https://github.com/whitzard-ai/jade-db/blob/main/JADE__chn.pdf)
 
 英文技术报告：[JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models](https://arxiv.org/abs/2311.00286)
@@ -31,7 +31,7 @@
 | 大模型安全通用**高危**测试集（demo版本，英文） | jade-db-v1.0/jade_benchmark_en.csv | 80条  | 针对4个国外商用（英文）LLM的高跨模型迁移性问题，覆盖违法犯罪、侵犯权益和歧视偏见3个大类 |
 
 
-## 数据样例
+## 数据样例 <font size="3">声明：以下包含有害违规内容示例，均不代表本团队立场）</font>
 
 | 问题                                                                                                                      | 数据集     | 违规类型 | 违规子类        |
 |:----------------------------------------------------------------------------------------------------------------------- |:------- |:---- |:----------- |
