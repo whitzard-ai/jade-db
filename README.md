@@ -1,4 +1,4 @@
-![image](https://github.com/whitzard-ai/jade-db/assets/132799726/697234be-a62a-40bb-83f3-508badda6004)# JADE-Database
+# JADE-Database
 中文技术报告：[JADE：基于语言学变异的大模型靶向式安全评测平台](https://github.com/whitzard-ai/jade-db/blob/main/JADE__chn.pdf)
 
 英文技术报告：[JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models](https://arxiv.org/abs/2311.00286)
