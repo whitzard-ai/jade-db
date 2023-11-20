@@ -56,7 +56,7 @@
 }
 ```
 
-## Stargazers over time
+## Star数统计图（欢迎大家持续关注！）
 
 [![Stargazers over time](https://starchart.cc/whitzard-ai/jade-db.svg)](https://starchart.cc/whitzard-ai/jade-db)
 
