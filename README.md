@@ -23,7 +23,10 @@
 
 ## Demo
 更多demo示例，请移步<a href="https://whitzard-ai.github.io/jade-demo.html">https://whitzard-ai.github.io/jade-demo.html</a>
+<div style="text-align: center;"> 
 ![how JADE uses linguistic mutation to break the safety guardrails of LLMs](jade-db-v2.0/example.gif)
+</div>
+
 
 ## 开源数据汇总
 
