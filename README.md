@@ -16,18 +16,18 @@
 
 ## 数据集说明
 
-我们将原始的低触发率种子问题通过语言学变异自动转化为高危问题，构造出自然文本数据集。问题类型覆盖4大类（核心价值观、违法犯罪、侵犯权益和歧视偏见），合计30多小类。
+我们将原始的低触发率种子问题通过语言学变异自动转化为高危问题，构造出自然文本数据集。问题类型覆盖 4 大类（核心价值观、违法犯罪、侵犯权益和歧视偏见），合计 30 多小类。
 
-* **JADE DB v2.0** :blush:: 我们再次发布面向中文开源大模型生成的两款评测数据集JADE-DB-Easy和JADE-DB-Medium，各包含1000个通用测试问题，分别代表基础和进阶安全难度。
-* **JADE DB v1.0** :clap:: 我们将手工生成的数百个低触发率的种子问题自动转化为数千个高危问题，并从中选取了具有高跨模型迁移性的230个问题（包含150个中文问题和80个英文问题）作为开源数据集。
+* **JADE DB v2.0** :blush:: 我们再次发布面向中文开源大模型生成的两款评测数据集 JADE-DB-Easy 和 JADE-DB-Medium，各包含 1000 个通用测试问题，分别代表基础和进阶安全难度。
+* **JADE DB v1.0** :clap:: 我们将手工生成的数百个低触发率的种子问题自动转化为数千个高危问题，并从中选取了具有高跨模型迁移性的 230 个问题（包含 150 个中文问题和 80 个英文问题）作为开源数据集。
 
 
-由于相关规定，涉及政治敏感的测试问题目前不包含在可下载的公开测试集中，如需评测，欢迎联系我们：<a href="mailto:mi_zhang@fudan.edu.cn">张谧老师</a>。
+由于相关规定，涉及政治敏感的测试问题目前不包含在可下载的公开测试集中，如需评测，欢迎联系我们：张谧老师，邮箱 mi_zhang@fudan.edu.cn。
 
 **声明：数据集包含有害违规内容示例，均不代表本团队立场。**
 
 ## Demo
-更多demo示例，请移步<a href="https://whitzard-ai.github.io/jade-demo.html">https://whitzard-ai.github.io/jade-demo.html</a>
+更多 demo 示例，请移步 <a href="https://whitzard-ai.github.io/jade-demo.html">https://whitzard-ai.github.io/jade-demo.html</a>
 ![how JADE uses linguistic mutation to break the safety guardrails of LLMs](jade-db-v2.0/example.gif)
 
 
