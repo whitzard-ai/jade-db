@@ -1,0 +1,6 @@
+langchain-community==0.0.32
+torch==1.13.1
+pydantic==2.6.4
+datasets==2.18.0
+transformers==4.43.0
+faiss-cpu==1.7.4

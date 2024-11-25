@@ -1,5 +1,7 @@
 # JADE-Database
 
+🔔 ***近期新闻：我们发布了 JADE 4.0-安全规约RAG：基于安全规约的检索增强生成！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-rag-v1.0***
+
 🔔 ***近期新闻：我们发布了 JADE 3.0：大模型安全对齐！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-db-v3.0***
 
 ---
