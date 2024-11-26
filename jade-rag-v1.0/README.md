@@ -1,5 +1,7 @@
 # JADE 4.0-安全规约RAG：基于安全规约的检索增强生成
 
+项目网站：https://whitzard-ai.github.io/jadev4.html
+
 @ [复旦白泽智能](https://whitzard-ai.github.io/index.html)
 
 JADE安全规约RAG通过提炼人类社会的通用安全规约构建RAG，帮助大模型如同人类般理解安全规则，对齐普适价值观。
