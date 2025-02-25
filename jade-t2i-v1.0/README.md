@@ -1,6 +1,6 @@
 # JADE 5.0：文生图大模型内容安全评测
 
-推送文章：[https://mp.weixin.qq.com/s/HSt3wQ1gOOJV7ZHyc8v9ig]
+推送文章：https://mp.weixin.qq.com/s/HSt3wQ1gOOJV7ZHyc8v9ig
 
 @ [复旦白泽智能](https://whitzard-ai.github.io/index.html)
 
