@@ -17,7 +17,7 @@ JADE 6.0 从多模态幻觉的成因机制出发，深入剖析模型推理过�
 其中，图像描述任务的提示词为：“请用一段话描述这张图像的细节”。VQA 任务的评估方法采用论文 *VQA: Visual Question Answering* 提出的开放式问答结果评估：
 
 $$
-\mathrm{accuracy} = \min\left(\frac{\text{# humans that provided that answer}}{3},\,1\right)
+\mathrm{accuracy} = \min\left(\frac{\text{\# humans that provided that answer}}{3},\,1\right)
 $$
 
 为更好地遵循数据集设定，我们在VQA 任务的提示词中附加引导语：“请用不多于3个词进行回答。”（中文提问）或‘Please answer the question with no more than three words.’（英文提问）。
