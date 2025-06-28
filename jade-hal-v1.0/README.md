@@ -1,6 +1,6 @@
 # JADE 6.0：首个面向多模态大模型的幻觉测评
 
-推送文章：
+推送文章：https://mp.weixin.qq.com/s/SMY2vth3WKq1pxq6M-OErQ
 
 @ [复旦白泽智能](https://whitzard-ai.github.io/index.html)
 
@@ -12,9 +12,10 @@ JADE 6.0 从多模态幻觉的成因机制出发，深入剖析模型推理过�
 
 * **image/jade_hal_caption/**：包含 200 张针对 **图像描述** 任务的陷阱图像；
 * **image/jade_hal_vqa/**：包含 100 张针对 **VQA** 任务的陷阱图像；
-* **jade_hal_vqa.csv**：包含 200条 **VQA** 任务的提问与人工标注答案，**中英文各100条**。
+* **jade_hal_vqa.csv**：包含 200条 **VQA** 任务的提问与人工标注答案，**中英文各100条**；
+* **jade_hal_caption.txt**：包含 **图像描述** 任务的提示词。
 
-其中，图像描述任务的提示词为：“请用一段话描述这张图像的细节”。VQA 任务的评估方法采用论文 *VQA: Visual Question Answering* 提出的开放式问答结果评估：
+其中，VQA 任务的评估方法采用论文 *VQA: Visual Question Answering* 提出的开放式问答结果评估：
 
 $$
 \mathrm{accuracy} = \min\left(\frac{\text{＃ humans that provided that answer}}{3},1\right)
@@ -22,7 +23,7 @@ $$
 
 为更好地遵循数据集设定，我们在VQA 任务的提示词中附加引导语：“请用不多于3个词进行回答。”（中文提问）或‘Please answer the question with no more than three words.’（英文提问）。
 
-该数据集仅用于学术研究目的，如需交流，欢迎联系：张谧老师 mi_zhang@fudan.edu.cn
+该数据集仅用于学术研究目的，如需合作，欢迎联系：张谧老师 mi_zhang@fudan.edu.cn
 
 ## 数据样例
 
