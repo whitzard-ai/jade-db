@@ -2,7 +2,7 @@
 
 
 
-推送文章：[https://mp.weixin.qq.com/xxxxx](https://mp.weixin.qq.com/s/9De_RR-jX-c04hhaBuhniQ)
+推送文章：[https://mp.weixin.qq.com/s/9De_RR-jX-c04hhaBuhniQ](https://mp.weixin.qq.com/s/9De_RR-jX-c04hhaBuhniQ)
 
 @ [复旦白泽智能](https://whitzard-ai.github.io/index.html)
 
@@ -23,3 +23,4 @@
 
 
 该数据集仅用于学术研究目的，如需合作或完整集合，欢迎联系：张谧老师 [mi_zhang@fudan.edu.cn](mailto:mi_zhang@fudan.edu.cn)
+
