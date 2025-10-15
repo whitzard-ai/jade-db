@@ -2,7 +2,7 @@
 
 
 
-推送文章：https://mp.weixin.qq.com/xxxxx
+推送文章：[https://mp.weixin.qq.com/xxxxx](https://mp.weixin.qq.com/s/9De_RR-jX-c04hhaBuhniQ)
 
 @ [复旦白泽智能](https://whitzard-ai.github.io/index.html)
 
@@ -18,6 +18,7 @@
 - **PrivacyLeakage**：隐私泄露风险大类的恶意server实例；
 - **prompts_DP.py**：基于工具描述的直接投毒攻击的提示词模板；
 - **prompts_MER.py**：基于外部资源的间接投毒攻击的提示词模板。
+
 
 
 
