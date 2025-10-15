@@ -1,5 +1,7 @@
 # JADE-Database
 
+🔔 ***近期新闻：我们发布了 JADE 7.0：面向智能体安全的MCP恶意server实例集合！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-mcp-v1.0***
+
 🔔 ***近期新闻：我们发布了 JADE 6.0：首个面向多模态大模型的幻觉测评！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-hal-v1.0***
 
 🔔 ***近期新闻：我们发布了 JADE 5.0：文生图大模型内容安全评测！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-t2i-v1.0***
