@@ -1,14 +1,16 @@
 # JADE-Database
 
-🔔 ***近期新闻：我们发布了 JADE 7.0：面向智能体安全的MCP恶意server实例集合！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-mcp-v1.0***
+🔔 ***近期新闻：我们发布了 JADE 8.0：首个面向大型推理模型的推理链安全防护工具！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-lrmguard***
 
-🔔 ***近期新闻：我们发布了 JADE 6.0：首个面向多模态大模型的幻觉测评！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-hal-v1.0***
+🔔 ***我们发布了 JADE 7.0：面向智能体安全的MCP恶意server实例集合！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-mcp-v1.0***
 
-🔔 ***近期新闻：我们发布了 JADE 5.0：文生图大模型内容安全评测！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-t2i-v1.0***
+🔔 ***我们发布了 JADE 6.0：首个面向多模态大模型的幻觉测评！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-hal-v1.0***
 
-🔔 ***近期新闻：我们发布了 JADE 4.0-安全规约RAG：基于安全规约的检索增强生成！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-rag-v1.0***
+🔔 ***我们发布了 JADE 5.0：文生图大模型内容安全评测！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-t2i-v1.0***
 
-🔔 ***近期新闻：我们发布了 JADE 3.0：大模型安全对齐！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-db-v3.0***
+🔔 ***我们发布了 JADE 4.0-安全规约RAG：基于安全规约的检索增强生成！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-rag-v1.0***
+
+🔔 ***我们发布了 JADE 3.0：大模型安全对齐！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-db-v3.0***
 
 ---
 
