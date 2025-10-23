@@ -1,4 +1,4 @@
-# JADE 8.0：首个面向大型推理模型的推理链安全加固工具
+# JADE 8.0：首个面向大型推理模型的推理链安全防护工具
 
 推送文章：[https://mp.weixin.qq.com/s/xxx](https://mp.weixin.qq.com/s/xxx)
 
@@ -12,7 +12,11 @@ Step 1: 创建环境
 
     conda env create -f environment.yaml
 
-Step 2: 导入JadeLRMGuard
+Step 2: 激活环境
+
+    conda activate jadelrmguard
+
+Step 3: 导入JadeLRMGuard
 
     from transformers import AutoModelForCausalLM, AutoTokenizer
     # JadeLRMGuard.cpython-310-x86_64-linux-gnu.so与代码同目录
