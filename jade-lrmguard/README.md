@@ -1,6 +1,6 @@
 # JADE 8.0：首个面向大型推理模型的推理链安全防护工具
 
-推送文章：[https://mp.weixin.qq.com/s/xxx](https://mp.weixin.qq.com/s/xxx)
+推送文章：[https://mp.weixin.qq.com/s/7nGBY4oIOsVWkfzSj2EKtg](https://mp.weixin.qq.com/s/7nGBY4oIOsVWkfzSj2EKtg)
 
 @ [复旦白泽智能](https://whitzard-ai.github.io/index.html)
 
