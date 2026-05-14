@@ -1,4 +1,4 @@
-# JADE-Database
+# 复旦JADE-大模型测评与治理
 
 🔔 ***近期新闻：我们发布了 《Jade有害图像分类指引》(Jade-HTG) 及配套评测 Benchmark！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-t2i-v2.0***
 
