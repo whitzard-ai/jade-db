@@ -1,5 +1,7 @@
 # 复旦JADE-大模型测评与治理
 
+🔔 ***近期新闻：我们发布了 Jade-BadPhoneAgent：首个针对手机智能体恶意使用的安全测评！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/Jade-BadPhoneAgent***
+
 🔔 ***近期新闻：我们发布了 《Jade有害图像分类指引》(Jade-HTG) 及配套评测 Benchmark！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-t2i-v2.0***
 
 🔔 ***我们发布了 JADE 8.0：首个面向大型推理模型的推理链安全防护工具！详情请移步：https://github.com/whitzard-ai/jade-db/tree/main/jade-lrmguard***
