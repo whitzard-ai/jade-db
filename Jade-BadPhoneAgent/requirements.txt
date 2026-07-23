@@ -1,0 +1,12 @@
+# Tested with Python 3.10 and CUDA 12.x.
+# Install the torch build that matches your CUDA runtime if needed:
+# https://pytorch.org/get-started/locally/
+torch==2.9.1
+torchvision==0.24.1
+transformers==4.57.0
+accelerate==1.12.0
+pillow==12.0.0
+qwen-vl-utils==0.0.14
+sentencepiece==0.2.1
+protobuf==6.33.1
+safetensors==0.7.0
